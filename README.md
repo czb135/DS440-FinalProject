@@ -1,1 +1,6 @@
-"This is the project for DS440 class. House Price prediction system." 
+# DS440 Final Project
+This is the final project for PSU DS400
+
+## Requirement
+Front end: HTML Bootstrap  
+Back end: Django
